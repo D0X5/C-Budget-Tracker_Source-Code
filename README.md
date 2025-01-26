@@ -1,9 +1,3 @@
-Finanzplaner (Eduard Petri [710642] & Florian Haus [710651] )
-
-Moin. Da wir bei Moodle nicht mehr als 20 Anhänge auf einmal hochladen können, haben wir uns entschieden ein öffentliches GitHub Repository zu erstellen. 
-Hier erstmal der Link: https://github.com/D0X5/C-Budget-Tracker_Source-Code
-
-
 Voraussetzungen:
 
 Python3.x oder höher
